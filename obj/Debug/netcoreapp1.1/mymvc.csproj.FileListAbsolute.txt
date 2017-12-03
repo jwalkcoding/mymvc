@@ -1,0 +1,9 @@
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\bin\Debug\netcoreapp1.1\mymvc.deps.json
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\bin\Debug\netcoreapp1.1\mymvc.runtimeconfig.json
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\bin\Debug\netcoreapp1.1\mymvc.runtimeconfig.dev.json
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\bin\Debug\netcoreapp1.1\mymvc.dll
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\bin\Debug\netcoreapp1.1\mymvc.pdb
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\obj\Debug\netcoreapp1.1\mymvc.csproj.CoreCompileInputs.cache
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\obj\Debug\netcoreapp1.1\mymvc.AssemblyInfo.cs
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\obj\Debug\netcoreapp1.1\mymvc.dll
+c:\Users\Jay Walker\Documents\GitHub\dotnet\mymvc\obj\Debug\netcoreapp1.1\mymvc.pdb
